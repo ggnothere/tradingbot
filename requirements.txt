@@ -1,3 +1,6 @@
 yfinance
-pandas_ta
+pandas
+numpy
+# 使用开发版 pandas_ta 以兼容最新 Python 环境
+git+https://github.com/twopirllc/pandas-ta.git@development
 requests
